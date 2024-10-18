@@ -1,0 +1,14 @@
+venv/
+pyvenv/
+*__pycache__/
+
+*.pem
+
+*.log
+*.txt
+*.swp
+*.json
+
+.rgignore
+
+!requirements.txt
