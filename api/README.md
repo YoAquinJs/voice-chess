@@ -13,6 +13,8 @@ The API is built using python and FastAPI framework, it's dependencies are liste
 requirements.txt, it's advised to run it in it's own virtual environment.
 
 ```bash
+cd api
+
 virtualenv
 pip install -r requirements.txt
 
